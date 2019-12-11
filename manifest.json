@@ -7,7 +7,7 @@
     "icons": {"128": "S4.png"},
     "browser_action":{
         "default_title":"videos loading",
-        "default_popup":"popup.html"
+        "default_popup":"index.html"
         
     },
     "permissions":["activeTab"]
